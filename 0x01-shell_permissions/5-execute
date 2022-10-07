@@ -1,2 +1,2 @@
 #!/bin/bash
-cdmod u+x hello
+chmod u+x hello
