@@ -1,1 +1,1 @@
-‘This repository contains solutions to shell tasks’
+0x0A-configuration_management
